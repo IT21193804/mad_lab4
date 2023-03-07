@@ -1,5 +1,5 @@
 package com.example.mad_lab4
-//i
+//it
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
